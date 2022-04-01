@@ -1,4 +1,5 @@
 a.txt
+a.txt local second ugit
 11111
 remote second ua
 22222
